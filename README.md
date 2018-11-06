@@ -5,8 +5,8 @@ Make sure you have `pip`, `virtualenv`, and `python3.5`
 
 # Run with the following commands
 
-1. git clone link
-2. cd `mlcc_exercises`
+1. `git clone https://github.com/DannyBoyBroadSword/mlcc_exercises.git`
+2. `cd mlcc_exercises`
 3. Create Python `virtualenv` with version python3.5
 
    `virtualenv --no-site-package jupyter-env --python=python3.5`
